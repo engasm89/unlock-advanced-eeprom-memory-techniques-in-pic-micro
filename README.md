@@ -55,19 +55,3 @@ gcc -Wall -Wextra -std=c11 *.c -o demo && ./demo
 
 Open `data/sample-telemetry.jsonl` to inspect representative console output. This is
 useful when validating your hardware wiring or cloud logging pipeline.
-
-## Additional Notes (Legacy Content)
-
-# Unlock Advanced EEPROM Memory Techniques in PIC Micro
-
-- Course: Unlock Advanced EEPROM Memory Techniques in PIC Micro
-- Author: Ashraf S A AlMadhoun
-- Link: https://www.udemy.com/course/arduino-eeprom-a-step-by-step-practical-course/?couponCode=JULYMAXDICOUNT
-
-## Overview
-
-Master EEPROM reads/writes, wear-leveling, and persistent configuration storage.
-
-## Purchase With Discount
-
-Enroll using the link above to get a discounted price and handle EEPROM like a pro.
